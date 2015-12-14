@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLogger", "EasyLogger\EasyLogger.csproj", "{FDB5B731-4F18-4FE5-B082-789BE6DE80BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyLoggerTest", "EasyLoggerTest\EasyLoggerTest.csproj", "{DAB67B62-FD16-4754-938B-676EE682C3C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FDB5B731-4F18-4FE5-B082-789BE6DE80BB} = {FDB5B731-4F18-4FE5-B082-789BE6DE80BB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB5B731-4F18-4FE5-B082-789BE6DE80BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB5B731-4F18-4FE5-B082-789BE6DE80BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB5B731-4F18-4FE5-B082-789BE6DE80BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB5B731-4F18-4FE5-B082-789BE6DE80BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB67B62-FD16-4754-938B-676EE682C3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB67B62-FD16-4754-938B-676EE682C3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB67B62-FD16-4754-938B-676EE682C3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB67B62-FD16-4754-938B-676EE682C3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

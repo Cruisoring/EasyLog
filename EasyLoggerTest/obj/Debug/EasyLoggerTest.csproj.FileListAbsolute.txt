@@ -1,0 +1,7 @@
+D:\Trial\EasyLogger\EasyLoggerTest\bin\Debug\EasyLoggerTest.dll
+D:\Trial\EasyLogger\EasyLoggerTest\bin\Debug\EasyLoggerTest.pdb
+D:\Trial\EasyLogger\EasyLoggerTest\bin\Debug\EasyLogger.dll
+D:\Trial\EasyLogger\EasyLoggerTest\bin\Debug\EasyLogger.pdb
+D:\Trial\EasyLogger\EasyLoggerTest\obj\Debug\EasyLoggerTest.csprojResolveAssemblyReference.cache
+D:\Trial\EasyLogger\EasyLoggerTest\obj\Debug\EasyLoggerTest.dll
+D:\Trial\EasyLogger\EasyLoggerTest\obj\Debug\EasyLoggerTest.pdb
